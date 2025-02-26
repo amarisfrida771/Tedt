@@ -13,5 +13,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: kauffehorn4b@outlook.com # replace me
         MAX_DAYS: 365
-        MIN_COMMITS_PER_DAY: 5
-        MAX_COMMITS_PER_DAY: 5
+        MIN_COMMITS_PER_DAY: 3
+        MAX_COMMITS_PER_DAY: 3
