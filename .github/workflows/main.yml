@@ -11,7 +11,7 @@ jobs:
     - uses: bcanseco/github-contribution-graph-action@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GIT_EMAIL: 286220 # replace me
+        GIT_EMAIL: kauffehhorn4b@outlook.com # replace me
         MAX_DAYS: 365
         MIN_COMMITS_PER_DAY: 5
         MAX_COMMITS_PER_DAY: 5
